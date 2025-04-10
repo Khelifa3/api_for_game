@@ -1,0 +1,22 @@
+{
+  "campaigns": [
+    {
+      "name": "Mother's Day Special",
+      "start_date": "2025-04-20",
+      "end_date": "2025-05-10",
+      "discount": 15,
+      "promo_code": "MOM2025",
+      "featured_products": ["CM001", "PP003"],
+      "tweet_schedule": ["daily", "2x on weekends"]
+    },
+    {
+      "name": "Graduation Gifts",
+      "start_date": "2025-05-15",
+      "end_date": "2025-06-15",
+      "discount": 10,
+      "promo_code": "GRAD25",
+      "featured_products": ["TS002", "CM001"],
+      "tweet_schedule": ["3x weekly"]
+    }
+  ]
+}

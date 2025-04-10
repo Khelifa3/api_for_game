@@ -1,0 +1,13 @@
+{
+  "metrics": {
+    "average_engagement_rate": 2.7,
+    "best_performing_hashtags": ["#CustomMerch", "#GiftIdeas", "#PersonalizedGifts"],
+    "optimal_posting_times": ["8:00-9:00", "12:00-13:00", "19:00-21:00"],
+    "top_converting_tweet_types": ["customer_photos", "limited_time_offers"]
+  },
+  "conversion_funnel": {
+    "impression_to_click": 3.2,
+    "click_to_cart": 8.5,
+    "cart_to_purchase": 22.1
+  }
+}

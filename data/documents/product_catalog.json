@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "CM001",
+      "name": "Custom Photo Mug",
+      "description": "Personalized ceramic mug with your photo",
+      "price": 19.99,
+      "customizable": true,
+      "variants": ["11oz", "15oz"],
+      "base_colors": ["White", "Black"]
+    },
+    {
+      "id": "TS002",
+      "name": "Custom Text T-Shirt",
+      "description": "Add your own text to this premium cotton tee",
+      "price": 24.99,
+      "customizable": true,
+      "sizes": ["S", "M", "L", "XL"],
+      "base_colors": ["White", "Black", "Gray", "Navy"]
+    },
+    {
+      "id": "PP003",
+      "name": "Custom Phone Case",
+      "description": "Personalized phone case with your design",
+      "price": 29.99,
+      "customizable": true,
+      "phone_models": ["iPhone 15", "iPhone 14", "Galaxy S24"]
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-04-01",
+    "currency": "USD"
+  }
+}

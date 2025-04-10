@@ -1,0 +1,19 @@
+templates:
+  # Custom product promotion templates
+  custom_product:
+    - text: "👉 Create your own {product_name} with your favorite photo! Starting at just ${price} 📸 #CustomMerch #PersonalizedGifts"
+      media_required: true
+      link_format: "{product_url}"
+      
+    - text: "Turn your memories into merch! Customize your own {product_name} today 🎁 #GiftIdeas"
+      media_required: true
+      
+  # Discount templates
+  discount:
+    - text: "FLASH SALE 🔥 {discount_percentage}% off all custom {category} today! Use code: {promo_code} #CustomMerch"
+      link_format: "{category_url}"
+      
+  # Example templates
+  inspiration:
+    - text: "Check out what @{customer_handle} created on their custom {product_name}! Design yours now 👇 #CustomDesign"
+      media_required: true

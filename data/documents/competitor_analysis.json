@@ -1,0 +1,25 @@
+{
+  "competitors": [
+    {
+      "name": "CustomTees",
+      "strengths": ["Wider product selection", "Faster shipping"],
+      "weaknesses": ["Higher prices", "Limited customization options"],
+      "social_activity": {
+        "tweet_frequency": "5-7 daily",
+        "engagement_rate": 1.8,
+        "top_hashtags": ["#CustomTees", "#YourDesign"]
+      }
+    },
+    {
+      "name": "PhotoGiftsPlus",
+      "strengths": ["Premium quality", "More templates"],
+      "weaknesses": ["Poor mobile experience", "Limited social presence"],
+      "social_activity": {
+        "tweet_frequency": "2-3 daily",
+        "engagement_rate": 1.2,
+        "top_hashtags": ["#PhotoGifts", "#CustomPresents"]
+      }
+    }
+  ],
+  "market_gap": "Fast turnaround time on custom orders with easy design tools"
+}

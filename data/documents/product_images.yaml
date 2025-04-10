@@ -1,0 +1,24 @@
+image_categories:
+  product_templates:
+    - id: "mug_template"
+      filename: "mug_template.png"
+      dimensions: "1200x900"
+      format: "PNG"
+      transparent: true
+      
+    - id: "tshirt_template"
+      filename: "tshirt_template.png"
+      dimensions: "2000x2000"
+      format: "PNG"
+      transparent: true
+      
+  customer_examples:
+    - id: "wedding_mug"
+      filename: "wedding_photo_mug.jpg"
+      product_id: "CM001"
+      permission: true
+      
+    - id: "family_tshirt"
+      filename: "family_custom_tshirt.jpg"
+      product_id: "TS002"
+      permission: true

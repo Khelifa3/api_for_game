@@ -1,0 +1,12 @@
+{
+    "product_catalog.json": "Complete catalog of merchandise products with pricing, descriptions, and inventory status",
+    "tweet_templates.yaml": "Pre-approved tweet templates for various promotional scenarios and product launches",
+    "customer_response_guide.md": "Guidelines for responding to customer inquiries and handling common questions",
+    "seasonal_campaigns.json": "Scheduled promotional campaigns tied to holidays and special events",
+    "discount_policies.json": "Rules for applying discounts, coupon codes, and special offers",
+    "shipping_info.json": "Shipping options, pricing tiers, and estimated delivery timeframes",
+    "brand_voice_guidelines.md": "Tone, personality, and language guidelines for maintaining consistent brand voice",
+    "engagement_metrics.json": "Performance metrics for tweet engagement and conversion rates",
+    "product_images.yaml": "Metadata and URLs for product images in various formats and resolutions",
+    "competitor_analysis.json": "Information about competitor pricing, products, and social media strategies"
+}

@@ -1,0 +1,18 @@
+{
+  "shipping_options": [
+    {
+      "name": "Standard",
+      "delivery_time": "5-7 business days",
+      "price": 4.99,
+      "free_threshold": 35.00
+    },
+    {
+      "name": "Express",
+      "delivery_time": "2-3 business days",
+      "price": 12.99,
+      "free_threshold": 75.00
+    }
+  ],
+  "countries_served": ["US", "CA", "UK", "AU"],
+  "restrictions": ["Cannot ship to PO boxes"]
+}

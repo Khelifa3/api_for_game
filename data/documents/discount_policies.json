@@ -1,0 +1,25 @@
+{
+  "discount_types": [
+    {
+      "type": "percentage",
+      "applies_to": ["all_products", "category", "specific_products"],
+      "stackable": false
+    },
+    {
+      "type": "bulk_discount",
+      "tiers": [
+        {"quantity": 5, "discount": 10},
+        {"quantity": 10, "discount": 15},
+        {"quantity": 25, "discount": 20}
+      ]
+    }
+  ],
+  "active_codes": [
+    {
+      "code": "WELCOME15",
+      "discount": 15,
+      "expiry": "2025-12-31",
+      "one_time_use": true
+    }
+  ]
+}
